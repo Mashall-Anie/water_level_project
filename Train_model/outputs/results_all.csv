@@ -1,0 +1,9 @@
+﻿Dataset,Target,Model,RMSE,MAE,R2,NSE
+Daily,H,XGBoost,5.67,2.45,0.9976,0.9976
+Daily,H,RandomForest,15.5,7.39,0.9817,0.9817
+Monthly,Htb,XGBoost,44.35,31.38,0.7531,0.7531
+Monthly,Htb,RandomForest,52.91,39.87,0.6485,0.6485
+Monthly,Hmax,XGBoost,91.84,70.8,0.7192,0.7192
+Monthly,Hmax,RandomForest,98.97,79.13,0.6739,0.6739
+Monthly,Hmin,XGBoost,25.65,17.21,0.7239,0.7239
+Monthly,Hmin,RandomForest,30.53,20.13,0.6089,0.6089
