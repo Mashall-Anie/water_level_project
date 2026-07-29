@@ -1,7 +1,6 @@
 # 🌊 Dự báo mực nước trạm Ba Thá – Sông Đáy
 
 **Ứng dụng mô hình học máy (XGBoost & Random Forest) trong dự báo mực nước**  
-Trần Hà Trang – 64HTTT2 – Đại học Thuỷ Lợi
 
 ---
 
