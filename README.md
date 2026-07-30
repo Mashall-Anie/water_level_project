@@ -7,7 +7,7 @@
 ## 📁 Cấu trúc dự án
 
 ```
-water_level_project/
+Train_model/
 ├── data/                          # Dữ liệu đầu vào
 │   ├── BaTha_annual_full_1994-2023.csv
 │   ├── BaTha_annual_train_1994-2017.csv
